@@ -13,9 +13,11 @@ http://www.ashmaurya.com/2010/08/businessmodelcanvas/
 You might fork this, and use it to analyze your ideas.
 
 For start there are three templates, 
+
 - *canvas_1_value_delivery.html*
 - *canvas_2_value_creation.html*
 - *canvas_3_value_capturing.html*
+
 that correspond to openSAP materials/recommendations as of week 2. 
 
 The **canvas_complete.html** template would be the final result.
@@ -33,5 +35,7 @@ http://leancanvas.com/
 And there is one promoted by Steve Blank:
 https://www.leanlaunchlab.com/
 
+The general idea and html is to be credited to Zeljko Dakic @ 
+https://github.com/desireco/BusinessModelCanvasTemplate
 
 Luc Vanrobays
