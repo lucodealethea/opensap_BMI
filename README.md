@@ -41,6 +41,9 @@ And there is one promoted by Steve Blank:
 https://www.leanlaunchlab.com/
 
 The general idea and html is to be credited to Zeljko Dakic @ 
-https://github.com/desireco/BusinessModelCanvasTemplate
+https://github.com/desireco/BusinessModelCanvasTemplate. 
 
+And we'll give also credit to Piero Blunda @ https://github.com/pieroblunda/business-model-canvas that developed a chrome-extension that you might need to clone/debug/enhance quite a bit in order to produce something.
+
+Enjoy.
 Luc Vanrobays
