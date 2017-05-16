@@ -1,6 +1,7 @@
 BODY {font-family: 'Headland One', serif;}
 
-H1 {font-weight: 900;}
+H1 {font-weight: 900;
+    color:cadetblue}
 
 #bizcanvas {
   border: 3px solid black;
@@ -18,6 +19,7 @@ H1 {font-weight: 900;}
 #bizcanvas H4 {
   font-weight: 700;
   font-size: 1em;
+   color: rgba(0, 98, 255, 0.77);
 }
 
 #bizcanvas H5 {
