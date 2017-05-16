@@ -1,9 +1,9 @@
 Business Model Canvas Template
 ==============================
 
-This is a template for Alex Osterwilder's Business Model Canvas as to be used for [openSAP Course Designing Business Models for the Digital Economy (Edition Q2/2017)](https://open.sap.com/courses/bmi1/)
+This is a set of templates for Alex Osterwalder's Business Model Canvas that can be used for [openSAP Course Designing Business Models for the Digital Economy (Edition Q2/2017)](https://open.sap.com/courses/bmi1/).
 
-Following template for [Alex Osterwilder's Business Model Canvas](http://www.businessmodelgeneration.com/canvas)
+Following template from [Alex Osterwalder's Business Model Canvas](http://www.businessmodelgeneration.com/canvas)
 
 It is a tool for quick and fairly easy clarification of business models.
 
@@ -26,8 +26,13 @@ Other Templates **startup.html** which is more along the lines of what Ash Maury
 Or use **per_bus_model.html** if you want to go along with [Business Model YOU A One-Page Method for Reinventing Your Career](http://businessmodelyou.com/)
 
 Just clone/fork this repo or download it as a zip if you want to work offline.
+Go inside the openSAP_BMI folder and open template.html with your favorite HTML editor.
 
 I have to mention existing online tools as well, however I do believe this way is a bit superior in terms of flexibility.
+
+[Strategizer](https://strategyzer.com).
+
+[Canvanizer](https://canvanizer.com).
 
 Here is one from Ash Maurya's Spark59:
 http://leancanvas.com/
