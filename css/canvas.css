@@ -1,7 +1,7 @@
 BODY {font-family: 'Headland One', serif;}
 
 H1 {font-weight: 900;
-    color:cadetblue}
+    color:#329a62}
 
 #bizcanvas {
   border: 3px solid black;
@@ -19,7 +19,7 @@ H1 {font-weight: 900;
 #bizcanvas H4 {
   font-weight: 700;
   font-size: 1em;
-   color: rgba(0, 98, 255, 0.77);
+   color: #0062ff;
 }
 
 #bizcanvas H5 {
@@ -31,3 +31,33 @@ H1 {font-weight: 900;
   font-weight: 300;
   font-size: 0.8em;
 }
+
+li.LE {
+  font-weight: 300;
+  font-size: 0.8em;
+   color: #fdbc0d;
+
+}
+
+li.SME {
+  font-weight: 300;
+  font-size: 0.8em;
+   color: #05c605;
+
+}
+
+li.MI {
+  font-weight: 300;
+  font-size: 0.8em;
+   color: #0062ff;
+
+}
+
+li.ALL {
+  font-weight: 300;
+  font-size: 0.8em;
+   color: #f52aaf;
+
+}
+
+
