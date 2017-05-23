@@ -28,13 +28,13 @@ Or use **per_bus_model.html** if you want to go along with [Business Model YOU A
 Just clone/fork this repo or download it as a zip if you want to work offline.
 Go inside the openSAP_BMI folder and open template.html with your favorite HTML editor.
 
-I have to mention existing online tools as well, however I do believe this way is a bit superior in terms of flexibility.
+I have to mention existing online tools as well, ie. online collaborative canvas ( where the real value of the tool resides). I believe HTML way is slightly more convenient when it is about to freeze into a more detailled canvas.
 
-[Strategizer](https://strategyzer.com).
+[Strategizer](https://strategyzer.com) aka Business Model Foundry, with export to PowerPoint capabilities
 
 [Canvanizer](https://canvanizer.com).
 
-Here is one from Ash Maurya's Spark59:
+Also there is one from Ash Maurya's Spark59:
 http://leancanvas.com/
 
 And there is one promoted by Steve Blank:
@@ -46,4 +46,5 @@ https://github.com/desireco/BusinessModelCanvasTemplate.
 And we'll give also credit to Piero Blunda @ https://github.com/pieroblunda/business-model-canvas that developed a chrome-extension that you might need to clone/debug/enhance quite a bit in order to produce something.
 
 Enjoy.
-Luc Vanrobays
+
+Luc.
